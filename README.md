@@ -1,5 +1,6 @@
-- Hi, I’m @gustavolramos
+- Hi, I’m Gustavo
+- I'm both Brazilian and Italian 
 - I’m currently learning Dart & Flutter
-- I'm a business partner and product owner at CoBlue (coblue.io)
-- I'm looking for a part-time job as a front-end developer :)
+- I work as a Product Owner at CoBlue (coblue.io)
+- I'm looking for a part-time job as a Flutter Front-End developer :)
 
