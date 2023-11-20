@@ -1,4 +1,4 @@
-- Hi, I’m Gustavo, I'm both Brazilian and Italian, currently residing in Italy.
+- Hi, I’m Gustavo, I'm both Brazilian and Italian, currently residing in Switzerland.
 - I’m a Flutter and Golang developer
 - I work as a Product Manager.
 
