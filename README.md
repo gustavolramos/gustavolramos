@@ -1,5 +1,5 @@
-- Hi, I’m Gustavo, I'm both Brazilian and Italian, currently residing in Switzerland.
-- I’m a Flutter and Golang developer with 2 years of experience in coding.
-- I'm a Freelancer operating in Brazil and Europe. 
+- Hi, I’m Gustavo, 27, I'm both Brazilian and Italian, currently residing and working in Switzerland.
+- I’m a Mobile Developer, specialized in Flutter.
+- I have some knowledge of Golang and Python. 
 
 Feel free to reach out to me at gustavoloureiroramos@gmail.com
